@@ -11,7 +11,7 @@ public class Schleifen {
         int temperatur = 23;
 
 
-        if (number == 5){
+        if (number == 6){
             System.out.println("Number ist gleich 5");
         } else {
             System.out.println("Number ist nicht gleich 5");
