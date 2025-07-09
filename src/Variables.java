@@ -25,5 +25,23 @@ public class Variables {
         }
 
         System.out.println(bool);
+
+        int guests;
+        guests = 10;
+
+        System.out.println("Die Anzahl der Gäste ist: " + guests);
+
+        guests = guests - 2;
+
+        System.out.println("Die Anzahl der Gäste ist: " + guests);
+
+        guests -= 3;
+
+        System.out.println("Die Anzahl der Gäste ist: " + guests);
+
+        guests --;
+
+        System.out.println("Die Anzahl der Gäste ist: " + guests);
+
     }
 }
